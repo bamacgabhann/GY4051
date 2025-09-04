@@ -4,7 +4,7 @@ ___
 
 During this week, we will look at how plate tectonics results in volcanoes and igneous systems, the rocks which form from them, and some of the impacts these have on society.
 
-This section will contain lecture slides and the assigned reading for the week.
+This section will contain lecture slides, the laboratory worksheet, and the assigned reading for the week.
 
 ## Reading
 ___
@@ -21,6 +21,10 @@ ___
 ## Lecture
 ___
 Lecture slides: [GY4051 L3 Volcanoes](./assets/lectures/GY4051_L3_Volcanoes.pdf)
+
+## Labs
+___
+TBC
 
 ## Additional
 ___

@@ -22,3 +22,7 @@ ___
 ___
 Lecture slides: [GY4051 L2 Plate Tectonics](./assets/lectures/GY4051_L2_Plate_Tectonics.pdf)
 
+
+## Labs
+___
+TBC
