@@ -27,8 +27,12 @@ On successful completion of this module, you will be able to:
 ## Module Schedule
 ___
 Lectures: Mondays 0900-1100, HSG037
+Labs: TBC, ER2-029
 
-More info: [Title](https://)
+
+## Module Assessment
+___
+TBC
 
 ___
-[Previous](./00_template.md) | [Recommended order of tasks](./start.md#recommended-order-of-tasks) | [Next](./00_template.md)
+Previous | [Home](./README.md) | [Next](./week1.md)
