@@ -1,6 +1,6 @@
 # Week 1: Origin of the Earth
 ___
-![Week 1 Cover image](../assets/images/ESS2.png)
+![Week 1 Cover image](./assets/images/ESS2.png)
 
 During this week, we will set the scene for the module by exploring how the solar system and the Earth formed.
 
@@ -17,5 +17,5 @@ ___
 
 ## Lecture
 ___
-Lecture slides: [GY4051 L1 Origin of the Earth](../assets/lectures/GY4051_L1_Origin_of_the_Earth.pdf)
+Lecture slides: [GY4051 L1 Origin of the Earth](./assets/lectures/GY4051_L1_Origin_of_the_Earth.pdf)
 

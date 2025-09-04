@@ -1,8 +1,8 @@
-![UL Geography logo](../assets/images/GY4051_logo-01.png)
+![UL Geography logo](./assets/images/GY4051_logo-01.png)
 
 # GY4051: Earth Science and Society
 ___
-![Module Cover image](../assets/images/Cover-Geirangerfjord.jpg)
+![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
 Welcome to GY4051 Earth Science and Society. Here, you will find the module information and content, including lecture slides and reading materials.
 
 ## Module Overview
