@@ -28,4 +28,6 @@ In the lecture (and the mini-virtual field trip), I discussed geoengineering of 
 
 Lecture slides: [GY4051 L12 Recent Ireland](./assets/lectures/GY4051_L12_Recent_Ireland.pdf)
 
+## Additional
 
+The report identifying Co. Down as a potential location for a High Strength Rock (HSR) Geological Disposal Facility (GDF) for spent nuclear fuel can be found [here](https://www.gov.uk/guidance/northern-ireland-sub-region-2).
