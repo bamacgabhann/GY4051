@@ -17,15 +17,11 @@ I would also like you to read Chapters 8-11 of [Understanding Earth Processes Ro
  - Attend the lecture
  - Read Chapter 19 of Lutgens, F.K. and Tarbuck, E.J. 2015 Essentials of Geology. Pearson, Boston
  - Read Chapters 8-11 of Sleeman *et al.*
- - Labs TBC
 
 ## Lecture
 
 Lecture slides: [GY4051 L11 Tropical](./assets/lectures/GY4051_L11_Tropical.pdf)
 
-## Labs
-
-TBC
 
 ## Additional
 

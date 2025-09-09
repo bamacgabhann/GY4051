@@ -19,6 +19,13 @@ There is much more information about Parys Mine online: I suggest the website of
 
  - Read Chapter 16 of Johnson *et al.* 2017 An Introduction to Geology
  - Do the virtual field trip
+ - Do the Reading Week lab exercise
+
+## Labs
+
+Laboratory Workbook: [Laboratory Workbook](./assets/labs/GY4051_Lab_Workbook.pdf)
+
+Geologic Time Scale online (copy in workbook): [Geologic Time Scale](https://stratigraphy.org/chart/)
 
 
 
