@@ -19,3 +19,6 @@ I would like you to read Chapter 1 of Lutgens and Tarbuck 2015 *Essentials of Ge
 
 Lecture slides: [GY4051 L1 Origin of the Earth](./assets/lectures/GY4051_L1_Origin_of_the_Earth.pdf)
 
+## Additional
+
+Documentary about the formation of the universe on YouTube - a few years old, but covers a lot of the same content as the lecture - [The Universe with Stephen Hawking: The Story of Everything](https://www.youtube.com/watch?v=DFSoT0p9AB0) [Formation of the Solar System](https://www.youtube.com/watch?v=Uhy1fucSRQI)
