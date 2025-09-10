@@ -25,6 +25,10 @@ There is much more information about Parys Mine online: I suggest the website of
 
 Laboratory Workbook: [Laboratory Workbook](./assets/labs/GY4051_Lab_Workbook.pdf)
 
+Tables and Questions in Word format: [Laboratory Exercise Questions Tables](./assets/labs/GY4051_Lab_Tables_Questions.docx)
+
+
+
 Geologic Time Scale online (copy in workbook): [Geologic Time Scale](https://stratigraphy.org/chart/)
 
 

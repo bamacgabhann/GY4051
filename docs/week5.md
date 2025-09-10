@@ -28,10 +28,17 @@ Lecture slides: [GY4051 L5 Erosion transport and deposition](./assets/lectures/G
 ## Labs
 
 Laboratory Workbook: [Laboratory Workbook](./assets/labs/GY4051_Lab_Workbook.pdf)
+
+Tables and Questions in Word format: [Laboratory Exercise Questions Tables](./assets/labs/GY4051_Lab_Tables_Questions.docx)
+
 Tables in Excel format: [Laboratory Exercise Tables](./assets/labs/GY4051_Lab_Tables.xlsx)
 
 Geologic Time Scale online (copy in workbook): [Geologic Time Scale](https://stratigraphy.org/chart/)
 
 Geological map of Ireland: [Geological Survey of Ireland mapviewer](https://dcenr.maps.arcgis.com/apps/MapSeries/index.html?appid=a30af518e87a4c0ab2fbde2aaac3c228)
 
+## Additional
 
+If you're curious what oil and gas wells are like, here's a YouTube video showing [video from inside drilled wells](https://youtu.be/ZzDrheWDhGw). You can actually see oil and gas coming up the borehole.
+
+I also mention hydraulic fracturing, commonly known as *fracking*, in the lecture. Well...in previous decades, the USA and USSR both decided it would be interesting to try doing that with nuclear bombs. Here's an excellent YouTube video about that, which also explains a bunch of stuff about oil and gas exploration, by a former drilling engineer. [Nuclear Fracking: Repeatedly Nuking Yourself for Commercial Reasons](https://www.youtube.com/watch?v=Rsu0lHkOIFg). Well worth watching.

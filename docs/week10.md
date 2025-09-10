@@ -30,6 +30,9 @@ Lecture slides: [GY4051 L10 Caledonian](./assets/lectures/GY4051_L10_Caledonian.
 ## Labs
 
 Laboratory Workbook: [Laboratory Workbook](./assets/labs/GY4051_Lab_Workbook.pdf)
+
+Tables and Questions in Word format: [Laboratory Exercise Questions Tables](./assets/labs/GY4051_Lab_Tables_Questions.docx)
+
 Tables in Excel format: [Laboratory Exercise Tables](./assets/labs/GY4051_Lab_Tables.xlsx)
 
 Geologic Time Scale online (copy in workbook): [Geologic Time Scale](https://stratigraphy.org/chart/)
