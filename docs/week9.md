@@ -41,3 +41,9 @@ Geological map of Ireland: [Geological Survey of Ireland mapviewer](https://dcen
 ## Additional
 
 Here's a YouTube short showing some metamorphic rocks on Mull, in Scotland: [The geology of Mull - Ardlanish Beach](https://www.youtube.com/watch?v=dpsiJPRnW00)
+
+## 3D rock outcrops
+
+### Schist - Cushendun, Co. Antrim
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Glendun Formation schist, Cushendun" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/82356e2ae9cb4bf99bc05837144c9073/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/glendun-formation-schist-cushendun-82356e2ae9cb4bf99bc05837144c9073?utm_medium=embed&utm_campaign=share-popup&utm_content=82356e2ae9cb4bf99bc05837144c9073" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Glendun Formation schist, Cushendun </a> by <a href="https://sketchfab.com/bamacgabhann?utm_medium=embed&utm_campaign=share-popup&utm_content=82356e2ae9cb4bf99bc05837144c9073" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Dr. Breandán Anraoi MacGabhann </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=82356e2ae9cb4bf99bc05837144c9073" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
