@@ -40,6 +40,7 @@ ___
 For more information, see [Labs](./labs.md)
 
 | Week | Lecture Date | Topic | Lab Group |
+| ----------- | ----------- | ----------- | ----------- |
 |Week 1 | 12 Sept | [Origin of the Earth](./week1.md) | -- |
 |Week 2 | 19 Sept | [Plate Tectonics](./week2.md) | -- |
 |Week 3 | 26 Sept | [Volcanoes](./week3.md) | 2C, 2D |
