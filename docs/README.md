@@ -26,13 +26,37 @@ On successful completion of this module, you will be able to:
 
 ## Module Schedule
 ___
-Lectures: Mondays 0900-1100, HSG037
-Labs: TBC, ER2-029
+**Lectures:**
+Mondays 0900-1100, HSG037
+
+**Labs:**
+Group 2A: Fridays 1300-1500, WEEKS 4, 7, 9, 11
+Group 2B: Thursdays 1200-1400, WEEKS 4, 7, 9, 11
+Group 2C: Thursdays 1200-1400, WEEKS 3, 5, 8, 10
+Group 2D: Fridays 1300-1500, WEEKS 3, 5, 8, 10
+Group 2E: Mondays 1400-1600, WEEKS 4, 7, 9, 11
+
 
 
 ## Module Assessment
 ___
-TBC
+
+| Assessment | Due Date | % of module | Learning Outcomes |
+| ----------- | ----------- | ----------- | ----------- |
+| Assessment 1: MCQ test | 03-10 December 2025 | 40% | LOs 1-2 |
+| Assessment 2: Video Assignment | 12 December 2025 | 50% | LOs 1-5 |
+
+See [Assessment and Feedback](./assessment.md) for details.
+
+
+## Repeat Assessment
+___
+
+| Assessment | Due Date | % of module | Learning Outcomes |
+| ----------- | ----------- | ----------- | ----------- |
+| Assessment 1: Video Assignment | 26 August 2026 | 100% | LOs 1-5 |
+
+See [Repeat Assessment](./repeat_assessment.md) for details.
 
 ___
 Previous | [Home](./README.md) | [Next](./week1.md)
