@@ -1,7 +1,7 @@
 ![UL Geography logo](./assets/images/GY4051_logo-01.png)
 
 
-# GY4051 Assessment and Feedback
+# GY4051 Repeat Assessment
 
 | Assessment | Due Date | % of module | Learning Outcomes |
 | ----------- | ----------- | ----------- | ----------- |
