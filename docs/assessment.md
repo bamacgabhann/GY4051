@@ -1,11 +1,13 @@
-![Module Cover image](./assets/images/GY4027_new_banners_Course_Banner.png)
+![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
 
-# GY4027 Assessment and Feedback
+
+# GY4051 Assessment and Feedback
 
 | Assessment | Due Date | % of module | Learning Outcomes |
 | ----------- | ----------- | ----------- | ----------- |
 | Assessment 1: MCQ test | 03-10 December 2025 | 40% | LOs 1-2 |
 | Assessment 2: Video Assignment | 12 December 2025 | 50% | LOs 1-5 |
+
 
 ## Assessment 1: MCQ test
 

@@ -36,6 +36,22 @@ Group 2C: Thursdays 1200-1400, WEEKS 3, 5, 8, 10
 Group 2D: Fridays 1300-1500, WEEKS 3, 5, 8, 10
 Group 2E: Mondays 1400-1600, WEEKS 4, 7, 9, 11
 
+For more information, see [Labs](./labs.md)
+
+| Week | Lecture Date | Topic | Lab Group |
+|Week 1 | 12 Sept | [Origin of the Earth](./week1.md) | -- |
+|Week 2 | 19 Sept | [Plate Tectonics](./week2.md) | -- |
+|Week 3 | 26 Sept | [Volcanoes](./week3.md) | 2C, 2D |
+|Week 4 | 03 Oct | [Metamorphism](./week4.md) | 2A, 2B, 2E |
+|Week 5 | 10 Oct | [Erosion, transport, and deposition](./week5.md) | 2C, 2D |
+|Week 6 |  -- | No lecture [Virtual Field Trip to Parys Mine](./week5.md) | -- |
+|Week 7 | 24 Oct | [Carbonates](./week7.md) | 2A, 2B, 2E |
+|Week 8 | 31 Oct | [Bank Holiday - No lecture - Labs Only](./week8.md) | 2C, 2D |
+|Week 9 | 07 Nov | [Laurentia, Avalonia, and the Iapetus Ocean](./week9.md) | 2A, 2B, 2E |
+|Week 10 | 14 Nov | [The Caledonian Mountains](./week10.md) | 2C, 2D |
+|Week 11 | 21 Nov | [Tropical Ireland](./week11.md) | 2A, 2B, 2E |
+|Week 12 | 28 Nov | [Recent Ireland](./week12.md) | -- |
+|Week 13 | -- | [Virtual Field Trip to Geirangerfjord](./week13.md) | -- |
 
 
 ## Module Assessment

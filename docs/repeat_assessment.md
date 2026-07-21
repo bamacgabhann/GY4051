@@ -1,10 +1,13 @@
-![Module Cover image](./assets/images/GY4027_new_banners_Course_Banner.png)
+![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
 
-# GY4027 Assessment and Feedback
+
+# GY4051 Assessment and Feedback
 
 | Assessment | Due Date | % of module | Learning Outcomes |
 | ----------- | ----------- | ----------- | ----------- |
 | Assessment 1: Video Assignment | 26 August 2026 | 50% | LOs 1-5 |
+
+
 
 ## Assessment 1: Video Assignment
 
