@@ -1,4 +1,4 @@
-![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
+![UL Geography logo](./assets/images/GY4051_logo-01.png)
 
 
 # GY4051 Assessment and Feedback
@@ -28,7 +28,7 @@ It will include questions covering the first half of the module, with topics inc
 - The virtual field trip to Parys Mine
 
 
-**Excluded areas:** The Burren and The Cliffs of Moher are specifically excluded as landscapes for this assignment.
+
 
 
 

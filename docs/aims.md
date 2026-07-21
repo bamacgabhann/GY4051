@@ -1,4 +1,5 @@
-![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
+![UL Geography logo](./assets/images/GY4051_logo-01.png)
+
 
 # GY4051 Module Aims & Learning Outcomes
 

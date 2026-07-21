@@ -3,6 +3,7 @@
 # GY4051: Earth Science and Society
 ___
 ![Module Cover image](./assets/images/Cover-Geirangerfjord.jpg)
+
 Welcome to GY4051 Earth Science and Society. Here, you will find the module information and content, including lecture slides and reading materials.
 
 ## Module Overview
@@ -27,14 +28,14 @@ On successful completion of this module, you will be able to:
 ## Module Schedule
 ___
 **Lectures:**
-Mondays 0900-1100, HSG037
+- Mondays 0900-1100, HSG037
 
 **Labs:**
-Group 2A: Fridays 1300-1500, WEEKS 4, 7, 9, 11
-Group 2B: Thursdays 1200-1400, WEEKS 4, 7, 9, 11
-Group 2C: Thursdays 1200-1400, WEEKS 3, 5, 8, 10
-Group 2D: Fridays 1300-1500, WEEKS 3, 5, 8, 10
-Group 2E: Mondays 1400-1600, WEEKS 4, 7, 9, 11
+- Group 2A: Fridays 1300-1500, WEEKS 4, 7, 9, 11
+- Group 2B: Thursdays 1200-1400, WEEKS 4, 7, 9, 11
+- Group 2C: Thursdays 1200-1400, WEEKS 3, 5, 8, 10
+- Group 2D: Fridays 1300-1500, WEEKS 3, 5, 8, 10
+- Group 2E: Mondays 1400-1600, WEEKS 4, 7, 9, 11
 
 For more information, see [Labs](./labs.md)
 
